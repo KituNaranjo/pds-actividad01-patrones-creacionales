@@ -116,4 +116,4 @@ ActivoFijo mesa = ActivoFijo.builder("AF-002", "Mesa de reuniones", new BigDecim
 
 ---
 
-> **Nota:** las tarifas de matrícula son reglas ilustrativas para el ejercicio, no valores oficiales.
+> **Nota:** Las tarifas de matrícula son reglas ilustrativas para el ejercicio, no valores oficiales.
