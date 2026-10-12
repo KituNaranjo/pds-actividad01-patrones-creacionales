@@ -5,9 +5,10 @@ Asignatura: Patrones de Diseño de Software
 
 **Grupo:** 8
 **Integrantes:**
-- Naranjo Christian
-- Loor Jordy
-- Mesias Diego
+- Naranjo Rivadeneira Christian Alberto
+- Loor Maridueña Jordy Alexander
+- Mesias Velez Diego Calixto
+- Cordova Calle Juan Jose
 
 ---
 
